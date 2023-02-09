@@ -1,6 +1,6 @@
 ### Bem vindo! Meu nome é Victor Prado 👋
 
-- 🔭 Hoje trabalho com Cyber Security
+- 🔭 Hoje trabalho com Cloud na Huawei Brasil
 - 🌱 Estou aprendendo a utilizar o Unity e estudando Desenvolvimento Web
 - 💬 Pergunte-me qualquer coisa
 
