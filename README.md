@@ -1,9 +1,5 @@
 ### Bem vindo! Meu nome é Victor Prado 👋
 
-- 🔭 Hoje trabalho com Cloud na Huawei Brasil
-- 🌱 Estou aprendendo a utilizar o Unity e estudando Desenvolvimento Web
-- 💬 Pergunte-me qualquer coisa
-
 <div align="center">
   <a href="https://github.com/Victor-Pradoo">
   <img width = "450" src="https://github-readme-stats.vercel.app/api?username=Victor-Pradoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
