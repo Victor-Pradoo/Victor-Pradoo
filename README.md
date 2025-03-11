@@ -1,4 +1,4 @@
-### Bem vindo! Meu nome é Victor Prado 👋
+### Bem vindo! Meu nome é Victor Prado Chaves 👋
 
 Sou apaixonado por desenvolvimento de sistemas e atualmente estou me aprofundando no ecossistema .NET, com foco em back-end. Estou cursando pós-graduação em Arquitetura de Sistemas .NET na FIAP, onde busco aprimorar minhas habilidades técnicas e compreender as melhores práticas do mercado. Aqui, você encontrará meus projetos pessoais e de estudo, refletindo minha jornada de aprendizado e crescimento como desenvolvedor. Fique à vontade para explorar e, caso tenha interesse, estou sempre aberto a novas oportunidades de colaboração e aprendizado.
 
