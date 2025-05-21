@@ -2,8 +2,13 @@
 
 Sou apaixonado por desenvolvimento de sistemas e atualmente estou me aprofundando no ecossistema .NET, com foco em back-end. Estou cursando pós-graduação em Arquitetura de Sistemas .NET na FIAP, onde busco aprimorar minhas habilidades técnicas e compreender as melhores práticas do mercado. Aqui, você encontrará meus projetos pessoais e de estudo, refletindo minha jornada de aprendizado e crescimento como desenvolvedor. Fique à vontade para explorar e, caso tenha interesse, estou sempre aberto a novas oportunidades de colaboração e aprendizado.
 
+Projetos nos quais contribui:
+<ul>
+  <li>https://github.com/Robert1802/FIAPCloudGames/tree/master</li>
+</ul>
+
 <div align="Left">
-  <a href="https://github.com/Victor-Pradoo">
+  <a href="https://github.com/Victor-Pradoo?tab=repositories">
   <img width = "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Pradoo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
